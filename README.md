@@ -5,4 +5,4 @@
 - https://youtu.be/DfXBCfH5ut0
 
 ### DeepDens
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//Denny1809/deepden/blob/main/deepden.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//Denny1809/blob/main/deepden.ipynb)
