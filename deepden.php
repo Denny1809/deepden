@@ -24,7 +24,7 @@
         "colab_type": "text"
       },
       "source": [
-        "<a href=\"https://colab.research.google.com/github/ardha27/DeepFake/blob/main/One_Click_Deep_Fake.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+        "<a href=\"https://colab.research.google.com/github/Denny1809/deepden/blob/main/deepden.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
       ]
     },
     {
@@ -53,8 +53,8 @@
       "source": [
         "import os\n",
         "\n",
-        "source = \"/content/drive/MyDrive/DeepFake/deddy.png\" # @param {type:\"string\"}\n",
-        "target = \"/content/drive/MyDrive/DeepFake/575p4d.mp4\" # @param {type:\"string\"}\n",
+        "source = \"/content/drive/MyDrive/arden/densariel.png\" # @param {type:\"string\"}\n",
+        "target = \"/content/drive/MyDrive/arden/ariel.mp4\" # @param {type:\"string\"}\n",
         "\n",
         "def create_output_path(source, target):\n",
         "    # Extract the file names from the paths\n",
